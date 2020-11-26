@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab3\third\CarDetails\CarDetails\bin\Debug\CarDetails.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab3\third\CarDetails\CarDetails\bin\Debug\CarDetails.exe
+C:\Users\TestUser\source\repos\Labs\Lab3\third\CarDetails\CarDetails\bin\Debug\CarDetails.pdb
+C:\Users\TestUser\source\repos\Labs\Lab3\third\CarDetails\CarDetails\obj\Debug\CarDetails.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab3\third\CarDetails\CarDetails\obj\Debug\CarDetails.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab3\third\CarDetails\CarDetails\obj\Debug\CarDetails.exe
+C:\Users\TestUser\source\repos\Labs\Lab3\third\CarDetails\CarDetails\obj\Debug\CarDetails.pdb

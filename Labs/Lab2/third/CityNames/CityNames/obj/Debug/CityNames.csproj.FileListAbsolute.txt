@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab2\third\CityNames\CityNames\bin\Debug\CityNames.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab2\third\CityNames\CityNames\bin\Debug\CityNames.exe
+C:\Users\TestUser\source\repos\Labs\Lab2\third\CityNames\CityNames\bin\Debug\CityNames.pdb
+C:\Users\TestUser\source\repos\Labs\Lab2\third\CityNames\CityNames\obj\Debug\CityNames.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab2\third\CityNames\CityNames\obj\Debug\CityNames.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab2\third\CityNames\CityNames\obj\Debug\CityNames.exe
+C:\Users\TestUser\source\repos\Labs\Lab2\third\CityNames\CityNames\obj\Debug\CityNames.pdb

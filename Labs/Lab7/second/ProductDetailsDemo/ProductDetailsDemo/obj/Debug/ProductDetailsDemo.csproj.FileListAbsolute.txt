@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab7\second\ProductDetailsDemo\ProductDetailsDemo\bin\Debug\ProductDetailsDemo.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab7\second\ProductDetailsDemo\ProductDetailsDemo\bin\Debug\ProductDetailsDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab7\second\ProductDetailsDemo\ProductDetailsDemo\bin\Debug\ProductDetailsDemo.pdb
+C:\Users\TestUser\source\repos\Labs\Lab7\second\ProductDetailsDemo\ProductDetailsDemo\obj\Debug\ProductDetailsDemo.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab7\second\ProductDetailsDemo\ProductDetailsDemo\obj\Debug\ProductDetailsDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab7\second\ProductDetailsDemo\ProductDetailsDemo\obj\Debug\ProductDetailsDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab7\second\ProductDetailsDemo\ProductDetailsDemo\obj\Debug\ProductDetailsDemo.pdb

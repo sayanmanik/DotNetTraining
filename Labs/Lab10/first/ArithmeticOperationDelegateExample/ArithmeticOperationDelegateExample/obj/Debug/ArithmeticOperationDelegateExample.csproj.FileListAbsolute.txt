@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab9\first\ArithmeticOperationDelegateExample\ArithmeticOperationDelegateExample\bin\Debug\ArithmeticOperationDelegateExample.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab9\first\ArithmeticOperationDelegateExample\ArithmeticOperationDelegateExample\bin\Debug\ArithmeticOperationDelegateExample.exe
+C:\Users\TestUser\source\repos\Labs\Lab9\first\ArithmeticOperationDelegateExample\ArithmeticOperationDelegateExample\bin\Debug\ArithmeticOperationDelegateExample.pdb
+C:\Users\TestUser\source\repos\Labs\Lab9\first\ArithmeticOperationDelegateExample\ArithmeticOperationDelegateExample\obj\Debug\ArithmeticOperationDelegateExample.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab9\first\ArithmeticOperationDelegateExample\ArithmeticOperationDelegateExample\obj\Debug\ArithmeticOperationDelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab9\first\ArithmeticOperationDelegateExample\ArithmeticOperationDelegateExample\obj\Debug\ArithmeticOperationDelegateExample.exe
+C:\Users\TestUser\source\repos\Labs\Lab9\first\ArithmeticOperationDelegateExample\ArithmeticOperationDelegateExample\obj\Debug\ArithmeticOperationDelegateExample.pdb

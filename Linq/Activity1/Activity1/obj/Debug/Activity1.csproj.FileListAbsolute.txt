@@ -1,0 +1,6 @@
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity1\bin\Debug\Activity1.exe.config
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity1\bin\Debug\Activity1.exe
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity1\bin\Debug\Activity1.pdb
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity1\obj\Debug\Activity1.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity1\obj\Debug\Activity1.exe
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity1\obj\Debug\Activity1.pdb

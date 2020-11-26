@@ -1,0 +1,12 @@
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\bin\Debug\EShoppyDAL.dll.config
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\bin\Debug\EShoppyDAL.dll
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\bin\Debug\EShoppyDAL.pdb
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\bin\Debug\EntityFramework.dll
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\bin\Debug\EntityFramework.xml
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\obj\Debug\EShoppyDAL.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\obj\Debug\EShoppyDAL.csproj.CopyComplete
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\obj\Debug\EShoppyDAL.dll
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\obj\Debug\EShoppyDAL.pdb
+C:\Users\TestUser\source\repos\day13\EShoppySolution\EShoppyDAL\obj\Debug\EShoppyDAL.csprojAssemblyReference.cache

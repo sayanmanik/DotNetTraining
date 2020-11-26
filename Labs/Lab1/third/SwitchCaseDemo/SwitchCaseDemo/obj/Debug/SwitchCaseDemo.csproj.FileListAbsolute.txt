@@ -1,0 +1,6 @@
+C:\Users\TestUser\source\repos\Labs\Lab1\third\SwitchCaseDemo\SwitchCaseDemo\bin\Debug\SwitchCaseDemo.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab1\third\SwitchCaseDemo\SwitchCaseDemo\bin\Debug\SwitchCaseDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab1\third\SwitchCaseDemo\SwitchCaseDemo\bin\Debug\SwitchCaseDemo.pdb
+C:\Users\TestUser\source\repos\Labs\Lab1\third\SwitchCaseDemo\SwitchCaseDemo\obj\Debug\SwitchCaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab1\third\SwitchCaseDemo\SwitchCaseDemo\obj\Debug\SwitchCaseDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab1\third\SwitchCaseDemo\SwitchCaseDemo\obj\Debug\SwitchCaseDemo.pdb

@@ -1,0 +1,8 @@
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountSolution\bin\Debug\netstandard2.0\AccountSolution.deps.json
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountSolution\bin\Debug\netstandard2.0\AccountSolution.dll
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountSolution\bin\Debug\netstandard2.0\AccountSolution.pdb
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountSolution\obj\Debug\netstandard2.0\AccountSolution.AssemblyInfoInputs.cache
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountSolution\obj\Debug\netstandard2.0\AccountSolution.AssemblyInfo.cs
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountSolution\obj\Debug\netstandard2.0\AccountSolution.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountSolution\obj\Debug\netstandard2.0\AccountSolution.dll
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountSolution\obj\Debug\netstandard2.0\AccountSolution.pdb

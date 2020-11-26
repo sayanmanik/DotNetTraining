@@ -1,0 +1,10 @@
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountClient\bin\Debug\AccountClient.exe.config
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountClient\bin\Debug\AccountClient.exe
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountClient\bin\Debug\AccountClient.pdb
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountClient\bin\Debug\AccountLibrary.dll
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountClient\bin\Debug\AccountLibrary.pdb
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountClient\obj\Debug\AccountClient.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountClient\obj\Debug\AccountClient.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountClient\obj\Debug\AccountClient.csproj.CopyComplete
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountClient\obj\Debug\AccountClient.exe
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountClient\obj\Debug\AccountClient.pdb

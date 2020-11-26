@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab4\second\ShapeDemo\ShapeDemo\bin\Debug\ShapeDemo.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab4\second\ShapeDemo\ShapeDemo\bin\Debug\ShapeDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab4\second\ShapeDemo\ShapeDemo\bin\Debug\ShapeDemo.pdb
+C:\Users\TestUser\source\repos\Labs\Lab4\second\ShapeDemo\ShapeDemo\obj\Debug\ShapeDemo.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab4\second\ShapeDemo\ShapeDemo\obj\Debug\ShapeDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab4\second\ShapeDemo\ShapeDemo\obj\Debug\ShapeDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab4\second\ShapeDemo\ShapeDemo\obj\Debug\ShapeDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab13\firstSecond\ContactSerialization\ContactSerialization\bin\Debug\ContactSerialization.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab13\firstSecond\ContactSerialization\ContactSerialization\bin\Debug\ContactSerialization.exe
+C:\Users\TestUser\source\repos\Labs\Lab13\firstSecond\ContactSerialization\ContactSerialization\bin\Debug\ContactSerialization.pdb
+C:\Users\TestUser\source\repos\Labs\Lab13\firstSecond\ContactSerialization\ContactSerialization\obj\Debug\ContactSerialization.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab13\firstSecond\ContactSerialization\ContactSerialization\obj\Debug\ContactSerialization.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab13\firstSecond\ContactSerialization\ContactSerialization\obj\Debug\ContactSerialization.exe
+C:\Users\TestUser\source\repos\Labs\Lab13\firstSecond\ContactSerialization\ContactSerialization\obj\Debug\ContactSerialization.pdb

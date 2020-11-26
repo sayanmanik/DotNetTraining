@@ -1,0 +1,6 @@
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\Calculator\obj\Debug\Calculator.pdb

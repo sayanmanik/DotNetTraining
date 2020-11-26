@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab2\second\TwoDimArray\TwoDimArray\bin\Debug\TwoDimArray.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab2\second\TwoDimArray\TwoDimArray\bin\Debug\TwoDimArray.exe
+C:\Users\TestUser\source\repos\Labs\Lab2\second\TwoDimArray\TwoDimArray\bin\Debug\TwoDimArray.pdb
+C:\Users\TestUser\source\repos\Labs\Lab2\second\TwoDimArray\TwoDimArray\obj\Debug\TwoDimArray.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab2\second\TwoDimArray\TwoDimArray\obj\Debug\TwoDimArray.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab2\second\TwoDimArray\TwoDimArray\obj\Debug\TwoDimArray.exe
+C:\Users\TestUser\source\repos\Labs\Lab2\second\TwoDimArray\TwoDimArray\obj\Debug\TwoDimArray.pdb

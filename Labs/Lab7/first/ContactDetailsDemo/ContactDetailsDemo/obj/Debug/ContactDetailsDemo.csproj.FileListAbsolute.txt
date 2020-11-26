@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab7\first\ContactDetailsDemo\ContactDetailsDemo\bin\Debug\ContactDetailsDemo.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab7\first\ContactDetailsDemo\ContactDetailsDemo\bin\Debug\ContactDetailsDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab7\first\ContactDetailsDemo\ContactDetailsDemo\bin\Debug\ContactDetailsDemo.pdb
+C:\Users\TestUser\source\repos\Labs\Lab7\first\ContactDetailsDemo\ContactDetailsDemo\obj\Debug\ContactDetailsDemo.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab7\first\ContactDetailsDemo\ContactDetailsDemo\obj\Debug\ContactDetailsDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab7\first\ContactDetailsDemo\ContactDetailsDemo\obj\Debug\ContactDetailsDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab7\first\ContactDetailsDemo\ContactDetailsDemo\obj\Debug\ContactDetailsDemo.pdb

@@ -1,0 +1,10 @@
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\ConsoleCalculator\bin\Debug\Calculator.dll
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\ConsoleCalculator\bin\Debug\Calculator.pdb
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CopyComplete
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\TestUser\source\repos\Labs\Lab1\second\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb

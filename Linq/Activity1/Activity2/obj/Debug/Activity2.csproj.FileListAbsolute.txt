@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity2\bin\Debug\Activity2.exe.config
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity2\bin\Debug\Activity2.exe
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity2\bin\Debug\Activity2.pdb
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity2\obj\Debug\Activity2.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity2\obj\Debug\Activity2.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity2\obj\Debug\Activity2.exe
+C:\Users\TestUser\source\repos\Linq\Activity1\Activity2\obj\Debug\Activity2.pdb

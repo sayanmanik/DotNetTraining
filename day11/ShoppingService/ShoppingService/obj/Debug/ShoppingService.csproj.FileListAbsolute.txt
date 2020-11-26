@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\day11\ShoppingService\ShoppingService\bin\ShoppingService.dll.config
+C:\Users\TestUser\source\repos\day11\ShoppingService\ShoppingService\bin\ShoppingService.dll
+C:\Users\TestUser\source\repos\day11\ShoppingService\ShoppingService\bin\ShoppingService.pdb
+C:\Users\TestUser\source\repos\day11\ShoppingService\ShoppingService\obj\Debug\ShoppingService.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\day11\ShoppingService\ShoppingService\obj\Debug\ShoppingService.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\day11\ShoppingService\ShoppingService\obj\Debug\ShoppingService.dll
+C:\Users\TestUser\source\repos\day11\ShoppingService\ShoppingService\obj\Debug\ShoppingService.pdb

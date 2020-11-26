@@ -1,0 +1,12 @@
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\obj\Debug\netcoreapp3.1\AccountConsoleClient.AssemblyInfoInputs.cache
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\obj\Debug\netcoreapp3.1\AccountConsoleClient.AssemblyInfo.cs
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\obj\Debug\netcoreapp3.1\AccountConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\bin\Debug\netcoreapp3.1\AccountConsoleClient.exe
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\bin\Debug\netcoreapp3.1\AccountConsoleClient.deps.json
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\bin\Debug\netcoreapp3.1\AccountConsoleClient.runtimeconfig.json
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\bin\Debug\netcoreapp3.1\AccountConsoleClient.runtimeconfig.dev.json
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\bin\Debug\netcoreapp3.1\AccountConsoleClient.dll
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\bin\Debug\netcoreapp3.1\AccountConsoleClient.pdb
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\obj\Debug\netcoreapp3.1\AccountConsoleClient.dll
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\obj\Debug\netcoreapp3.1\AccountConsoleClient.pdb
+C:\Users\TestUser\source\repos\Day3\AccountLibrary\AccountSolution\AccountConsoleClient\obj\Debug\netcoreapp3.1\AccountConsoleClient.genruntimeconfig.cache

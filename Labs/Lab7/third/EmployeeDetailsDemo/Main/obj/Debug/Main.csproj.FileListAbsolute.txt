@@ -1,0 +1,10 @@
+C:\Users\TestUser\source\repos\Labs\Lab7\third\EmployeeDetailsDemo\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab7\third\EmployeeDetailsDemo\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab7\third\EmployeeDetailsDemo\Main\bin\Debug\Main.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab7\third\EmployeeDetailsDemo\Main\bin\Debug\Main.exe
+C:\Users\TestUser\source\repos\Labs\Lab7\third\EmployeeDetailsDemo\Main\bin\Debug\Main.pdb
+C:\Users\TestUser\source\repos\Labs\Lab7\third\EmployeeDetailsDemo\Main\bin\Debug\EmployeeDetailsDemo.dll
+C:\Users\TestUser\source\repos\Labs\Lab7\third\EmployeeDetailsDemo\Main\bin\Debug\EmployeeDetailsDemo.pdb
+C:\Users\TestUser\source\repos\Labs\Lab7\third\EmployeeDetailsDemo\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\TestUser\source\repos\Labs\Lab7\third\EmployeeDetailsDemo\Main\obj\Debug\Main.exe
+C:\Users\TestUser\source\repos\Labs\Lab7\third\EmployeeDetailsDemo\Main\obj\Debug\Main.pdb

@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab10\second\DelegationAsParameterDemo\DelegationAsParameterDemo\bin\Debug\DelegationAsParameterDemo.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab10\second\DelegationAsParameterDemo\DelegationAsParameterDemo\bin\Debug\DelegationAsParameterDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab10\second\DelegationAsParameterDemo\DelegationAsParameterDemo\bin\Debug\DelegationAsParameterDemo.pdb
+C:\Users\TestUser\source\repos\Labs\Lab10\second\DelegationAsParameterDemo\DelegationAsParameterDemo\obj\Debug\DelegationAsParameterDemo.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab10\second\DelegationAsParameterDemo\DelegationAsParameterDemo\obj\Debug\DelegationAsParameterDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab10\second\DelegationAsParameterDemo\DelegationAsParameterDemo\obj\Debug\DelegationAsParameterDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab10\second\DelegationAsParameterDemo\DelegationAsParameterDemo\obj\Debug\DelegationAsParameterDemo.pdb

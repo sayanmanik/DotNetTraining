@@ -1,0 +1,6 @@
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorBl\bin\Debug\CalculatorBl.dll
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorBl\bin\Debug\CalculatorBl.pdb
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorBl\obj\Debug\CalculatorBl.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorBl\obj\Debug\CalculatorBl.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorBl\obj\Debug\CalculatorBl.dll
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorBl\obj\Debug\CalculatorBl.pdb

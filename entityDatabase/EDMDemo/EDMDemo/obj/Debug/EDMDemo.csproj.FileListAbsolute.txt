@@ -1,0 +1,12 @@
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\bin\Debug\EDMDemo.exe.config
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\bin\Debug\EDMDemo.exe
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\bin\Debug\EDMDemo.pdb
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\bin\Debug\EntityFramework.dll
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\bin\Debug\EntityFramework.xml
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\obj\Debug\EDMDemo.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\obj\Debug\EDMDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\obj\Debug\EDMDemo.csproj.CopyComplete
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\obj\Debug\EDMDemo.exe
+C:\Users\TestUser\source\repos\entityDatabase\EDMDemo\EDMDemo\obj\Debug\EDMDemo.pdb

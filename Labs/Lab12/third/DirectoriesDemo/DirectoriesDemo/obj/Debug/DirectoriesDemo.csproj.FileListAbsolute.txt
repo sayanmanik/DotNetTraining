@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab12\third\DirectoriesDemo\DirectoriesDemo\bin\Debug\DirectoriesDemo.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab12\third\DirectoriesDemo\DirectoriesDemo\bin\Debug\DirectoriesDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab12\third\DirectoriesDemo\DirectoriesDemo\bin\Debug\DirectoriesDemo.pdb
+C:\Users\TestUser\source\repos\Labs\Lab12\third\DirectoriesDemo\DirectoriesDemo\obj\Debug\DirectoriesDemo.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab12\third\DirectoriesDemo\DirectoriesDemo\obj\Debug\DirectoriesDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab12\third\DirectoriesDemo\DirectoriesDemo\obj\Debug\DirectoriesDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab12\third\DirectoriesDemo\DirectoriesDemo\obj\Debug\DirectoriesDemo.pdb

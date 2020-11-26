@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab2\fourth\BoxingUnboxingDemo\BoxingUnboxingDemo\bin\Debug\BoxingUnboxingDemo.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab2\fourth\BoxingUnboxingDemo\BoxingUnboxingDemo\bin\Debug\BoxingUnboxingDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab2\fourth\BoxingUnboxingDemo\BoxingUnboxingDemo\bin\Debug\BoxingUnboxingDemo.pdb
+C:\Users\TestUser\source\repos\Labs\Lab2\fourth\BoxingUnboxingDemo\BoxingUnboxingDemo\obj\Debug\BoxingUnboxingDemo.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab2\fourth\BoxingUnboxingDemo\BoxingUnboxingDemo\obj\Debug\BoxingUnboxingDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab2\fourth\BoxingUnboxingDemo\BoxingUnboxingDemo\obj\Debug\BoxingUnboxingDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab2\fourth\BoxingUnboxingDemo\BoxingUnboxingDemo\obj\Debug\BoxingUnboxingDemo.pdb

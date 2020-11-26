@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DotNetModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmpId" />
+    </Key>
+    <Property Name="EmpId" Type="Int32" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Age" Type="Int32" />
+    <Property Name="JoiningDate" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DotNetEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <FunctionImport Name="GetParticularEmployee" ReturnType="Collection(DotNetModel.GetParticularEmployee_Result)">
+      <Parameter Name="empId" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="GetParticularEmployee_Result">
+    <Property Type="Int32" Name="EmpId" Nullable="false" />
+    <Property Type="String" Name="LastName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="Age" Nullable="true" />
+    <Property Type="DateTime" Name="JoiningDate" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="DOJ">
+    <Property Type="DateTime" Name="JoiningDate" Precision="0" />
+  </ComplexType>
+  <ComplexType Name="ComplexType1">
+    <Property Type="DotNetModel.DOJ" Name="DOJ" Nullable="false" />
+    <Property Type="String" Name="Mobile" Nullable="false" />
+  </ComplexType>
+</Schema>

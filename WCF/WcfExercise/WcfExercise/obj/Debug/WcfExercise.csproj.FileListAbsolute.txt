@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\WCF\WcfExercise\WcfExercise\bin\WcfExercise.dll.config
+C:\Users\TestUser\source\repos\WCF\WcfExercise\WcfExercise\bin\WcfExercise.dll
+C:\Users\TestUser\source\repos\WCF\WcfExercise\WcfExercise\bin\WcfExercise.pdb
+C:\Users\TestUser\source\repos\WCF\WcfExercise\WcfExercise\obj\Debug\WcfExercise.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\WCF\WcfExercise\WcfExercise\obj\Debug\WcfExercise.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\WCF\WcfExercise\WcfExercise\obj\Debug\WcfExercise.dll
+C:\Users\TestUser\source\repos\WCF\WcfExercise\WcfExercise\obj\Debug\WcfExercise.pdb

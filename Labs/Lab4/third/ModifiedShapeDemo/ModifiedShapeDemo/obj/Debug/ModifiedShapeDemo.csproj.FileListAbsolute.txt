@@ -1,0 +1,6 @@
+C:\Users\TestUser\source\repos\Labs\Lab4\third\ModifiedShapeDemo\ModifiedShapeDemo\bin\Debug\ModifiedShapeDemo.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab4\third\ModifiedShapeDemo\ModifiedShapeDemo\bin\Debug\ModifiedShapeDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab4\third\ModifiedShapeDemo\ModifiedShapeDemo\bin\Debug\ModifiedShapeDemo.pdb
+C:\Users\TestUser\source\repos\Labs\Lab4\third\ModifiedShapeDemo\ModifiedShapeDemo\obj\Debug\ModifiedShapeDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab4\third\ModifiedShapeDemo\ModifiedShapeDemo\obj\Debug\ModifiedShapeDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab4\third\ModifiedShapeDemo\ModifiedShapeDemo\obj\Debug\ModifiedShapeDemo.pdb

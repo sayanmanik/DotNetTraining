@@ -1,0 +1,9 @@
+C:\Users\TestUser\source\repos\Day8\AdbDotNetDemo\AdbDotNetDemo\bin\Debug\AdbDotNetDemo.exe.config
+C:\Users\TestUser\source\repos\Day8\AdbDotNetDemo\AdbDotNetDemo\bin\Debug\AdbDotNetDemo.exe
+C:\Users\TestUser\source\repos\Day8\AdbDotNetDemo\AdbDotNetDemo\bin\Debug\AdbDotNetDemo.pdb
+C:\Users\TestUser\source\repos\Day8\AdbDotNetDemo\AdbDotNetDemo\obj\Debug\AdbDotNetDemo.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Day8\AdbDotNetDemo\AdbDotNetDemo\obj\Debug\AdbDotNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Day8\AdbDotNetDemo\AdbDotNetDemo\obj\Debug\AdbDotNetDemo.exe
+C:\Users\TestUser\source\repos\Day8\AdbDotNetDemo\AdbDotNetDemo\obj\Debug\AdbDotNetDemo.pdb
+C:\Users\TestUser\source\repos\Day8\AdbDotNetDemo\AdbDotNetDemo\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\TestUser\source\repos\Day8\AdbDotNetDemo\AdbDotNetDemo\obj\Debug\AdbDotNetDemo.csproj.CopyComplete

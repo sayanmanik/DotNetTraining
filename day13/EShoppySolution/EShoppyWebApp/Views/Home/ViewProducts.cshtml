@@ -1,0 +1,57 @@
+﻿@model IEnumerable<EShoppyDAL.Product>
+
+@{
+    ViewBag.Title = "ViewProducts";
+}
+
+<h2>ViewProducts</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create","Product")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExistsInStock)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ExistsInStock)
+        </td>
+        <td>
+            @Html.ActionLink(htmlAttributes:null, linkText:"Edit",actionName: "Edit",routeValues: new { id=item.ProductId },controllerName:"Product") |
+            @Html.ActionLink(htmlAttributes:null, linkText:"Details", actionName:"Details",routeValues: new { id=item.ProductId },controllerName:"Product") |
+            @Html.ActionLink(htmlAttributes:null, linkText:"Delete",actionName: "Delete", routeValues: new { id=item.ProductId },controllerName:"Product")
+        </td>
+    </tr>
+}
+
+</table>

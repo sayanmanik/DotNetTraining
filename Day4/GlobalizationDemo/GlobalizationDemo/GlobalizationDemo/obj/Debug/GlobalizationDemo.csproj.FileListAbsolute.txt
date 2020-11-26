@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Day4\GlobalizationDemo\GlobalizationDemo\GlobalizationDemo\bin\Debug\GlobalizationDemo.exe.config
+C:\Users\TestUser\source\repos\Day4\GlobalizationDemo\GlobalizationDemo\GlobalizationDemo\bin\Debug\GlobalizationDemo.exe
+C:\Users\TestUser\source\repos\Day4\GlobalizationDemo\GlobalizationDemo\GlobalizationDemo\bin\Debug\GlobalizationDemo.pdb
+C:\Users\TestUser\source\repos\Day4\GlobalizationDemo\GlobalizationDemo\GlobalizationDemo\obj\Debug\GlobalizationDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Day4\GlobalizationDemo\GlobalizationDemo\GlobalizationDemo\obj\Debug\GlobalizationDemo.exe
+C:\Users\TestUser\source\repos\Day4\GlobalizationDemo\GlobalizationDemo\GlobalizationDemo\obj\Debug\GlobalizationDemo.pdb
+C:\Users\TestUser\source\repos\Day4\GlobalizationDemo\GlobalizationDemo\GlobalizationDemo\obj\Debug\GlobalizationDemo.csprojAssemblyReference.cache

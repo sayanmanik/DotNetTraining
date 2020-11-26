@@ -1,0 +1,6 @@
+C:\Users\TestUser\source\repos\Labs\Lab2\fifth\BooksDetails\BooksDetails\bin\Debug\BooksDetails.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab2\fifth\BooksDetails\BooksDetails\bin\Debug\BooksDetails.exe
+C:\Users\TestUser\source\repos\Labs\Lab2\fifth\BooksDetails\BooksDetails\bin\Debug\BooksDetails.pdb
+C:\Users\TestUser\source\repos\Labs\Lab2\fifth\BooksDetails\BooksDetails\obj\Debug\BooksDetails.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab2\fifth\BooksDetails\BooksDetails\obj\Debug\BooksDetails.exe
+C:\Users\TestUser\source\repos\Labs\Lab2\fifth\BooksDetails\BooksDetails\obj\Debug\BooksDetails.pdb

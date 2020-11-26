@@ -1,0 +1,9 @@
+C:\Users\TestUser\source\repos\AdoDotNet\InsertMicrosoftApplication\InsertMicrosoftApplication\bin\Debug\InsertMicrosoftApplication.exe.config
+C:\Users\TestUser\source\repos\AdoDotNet\InsertMicrosoftApplication\InsertMicrosoftApplication\bin\Debug\InsertMicrosoftApplication.exe
+C:\Users\TestUser\source\repos\AdoDotNet\InsertMicrosoftApplication\InsertMicrosoftApplication\bin\Debug\InsertMicrosoftApplication.pdb
+C:\Users\TestUser\source\repos\AdoDotNet\InsertMicrosoftApplication\InsertMicrosoftApplication\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\TestUser\source\repos\AdoDotNet\InsertMicrosoftApplication\InsertMicrosoftApplication\obj\Debug\InsertMicrosoftApplication.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\AdoDotNet\InsertMicrosoftApplication\InsertMicrosoftApplication\obj\Debug\InsertMicrosoftApplication.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\AdoDotNet\InsertMicrosoftApplication\InsertMicrosoftApplication\obj\Debug\InsertMicrosoftApplication.csproj.CopyComplete
+C:\Users\TestUser\source\repos\AdoDotNet\InsertMicrosoftApplication\InsertMicrosoftApplication\obj\Debug\InsertMicrosoftApplication.exe
+C:\Users\TestUser\source\repos\AdoDotNet\InsertMicrosoftApplication\InsertMicrosoftApplication\obj\Debug\InsertMicrosoftApplication.pdb

@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+
+
+
+<p>Use this area to provide additional information.</p>
+
+
+<span>@ViewBag.name</span>
+
+@{
+    if (ViewData["name"] != null)
+    {
+        <h2>@ViewData["name"].ToString()</h2>
+    }
+    else
+    {
+
+        <h3>No value</h3>
+    }
+    
+    <span>@TempData["name"].ToString()</span>
+}
+
+
+

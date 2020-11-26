@@ -1,0 +1,27 @@
+﻿<Window x:Class="MyFirstWPF.DataBinding3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyFirstWPF"
+        mc:Ignorable="d"
+        Title="DataBinding3" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <DataGrid x:Name="datagrid1" AutoGenerateColumns="False" ItemsSource="{Binding}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding EmpId}" Header="Employee Id"/>
+                    <DataGridTextColumn Binding="{Binding FirstName}" Header="First Name"/>
+                    <DataGridTextColumn Binding="{Binding LastName, StringFormat=C}" Header="Last Name"/>
+
+
+
+                </DataGrid.Columns>
+                
+                
+                
+            </DataGrid>
+            <Button x:Name="btn1" Content="Load" Click="btn1_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab5\first\CreditLimitValidationException\CreditLimitValidationException\bin\Debug\CreditLimitValidationException.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab5\first\CreditLimitValidationException\CreditLimitValidationException\bin\Debug\CreditLimitValidationException.exe
+C:\Users\TestUser\source\repos\Labs\Lab5\first\CreditLimitValidationException\CreditLimitValidationException\bin\Debug\CreditLimitValidationException.pdb
+C:\Users\TestUser\source\repos\Labs\Lab5\first\CreditLimitValidationException\CreditLimitValidationException\obj\Debug\CreditLimitValidationException.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab5\first\CreditLimitValidationException\CreditLimitValidationException\obj\Debug\CreditLimitValidationException.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab5\first\CreditLimitValidationException\CreditLimitValidationException\obj\Debug\CreditLimitValidationException.exe
+C:\Users\TestUser\source\repos\Labs\Lab5\first\CreditLimitValidationException\CreditLimitValidationException\obj\Debug\CreditLimitValidationException.pdb

@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Day6\OtherFeatures\OtherFeatures\bin\Debug\OtherFeatures.exe.config
+C:\Users\TestUser\source\repos\Day6\OtherFeatures\OtherFeatures\bin\Debug\OtherFeatures.exe
+C:\Users\TestUser\source\repos\Day6\OtherFeatures\OtherFeatures\bin\Debug\OtherFeatures.pdb
+C:\Users\TestUser\source\repos\Day6\OtherFeatures\OtherFeatures\obj\Debug\OtherFeatures.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Day6\OtherFeatures\OtherFeatures\obj\Debug\OtherFeatures.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Day6\OtherFeatures\OtherFeatures\obj\Debug\OtherFeatures.exe
+C:\Users\TestUser\source\repos\Day6\OtherFeatures\OtherFeatures\obj\Debug\OtherFeatures.pdb

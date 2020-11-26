@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab12\second\FileCopyDemo\FileCopyDemo\bin\Debug\FileCopyDemo.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab12\second\FileCopyDemo\FileCopyDemo\bin\Debug\FileCopyDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab12\second\FileCopyDemo\FileCopyDemo\bin\Debug\FileCopyDemo.pdb
+C:\Users\TestUser\source\repos\Labs\Lab12\second\FileCopyDemo\FileCopyDemo\obj\Debug\FileCopyDemo.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab12\second\FileCopyDemo\FileCopyDemo\obj\Debug\FileCopyDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab12\second\FileCopyDemo\FileCopyDemo\obj\Debug\FileCopyDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab12\second\FileCopyDemo\FileCopyDemo\obj\Debug\FileCopyDemo.pdb

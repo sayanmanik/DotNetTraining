@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DotNetModelStoreContainer" CdmEntityContainer="DotNetEntities">
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="DotNetModel.Employee">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="JoiningDate" ColumnName="JoiningDate" />
+          <ScalarProperty Name="EmpId" ColumnName="EmpId" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="GetParticularEmployee" FunctionName="DotNetModel.Store.GetParticularEmployee">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DotNetModel.GetParticularEmployee_Result">
+          <ScalarProperty Name="EmpId" ColumnName="EmpId" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="JoiningDate" ColumnName="JoiningDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

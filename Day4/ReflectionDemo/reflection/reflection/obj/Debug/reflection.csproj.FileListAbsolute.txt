@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Day4\ReflectionDemo\reflection\reflection\bin\Debug\reflection.exe.config
+C:\Users\TestUser\source\repos\Day4\ReflectionDemo\reflection\reflection\bin\Debug\reflection.exe
+C:\Users\TestUser\source\repos\Day4\ReflectionDemo\reflection\reflection\bin\Debug\reflection.pdb
+C:\Users\TestUser\source\repos\Day4\ReflectionDemo\reflection\reflection\obj\Debug\reflection.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Day4\ReflectionDemo\reflection\reflection\obj\Debug\reflection.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Day4\ReflectionDemo\reflection\reflection\obj\Debug\reflection.exe
+C:\Users\TestUser\source\repos\Day4\ReflectionDemo\reflection\reflection\obj\Debug\reflection.pdb

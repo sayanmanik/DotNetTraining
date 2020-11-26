@@ -1,0 +1,6 @@
+C:\Users\TestUser\source\repos\Labs\Lab3\second\Bird\Bird\obj\Debug\Bird.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab3\second\Bird\Bird\bin\Debug\Bird.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab3\second\Bird\Bird\bin\Debug\Bird.exe
+C:\Users\TestUser\source\repos\Labs\Lab3\second\Bird\Bird\bin\Debug\Bird.pdb
+C:\Users\TestUser\source\repos\Labs\Lab3\second\Bird\Bird\obj\Debug\Bird.exe
+C:\Users\TestUser\source\repos\Labs\Lab3\second\Bird\Bird\obj\Debug\Bird.pdb

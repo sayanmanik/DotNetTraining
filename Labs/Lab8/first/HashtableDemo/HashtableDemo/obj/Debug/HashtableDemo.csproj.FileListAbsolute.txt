@@ -1,0 +1,7 @@
+C:\Users\TestUser\source\repos\Labs\Lab8\first\HashtableDemo\HashtableDemo\bin\Debug\HashtableDemo.exe.config
+C:\Users\TestUser\source\repos\Labs\Lab8\first\HashtableDemo\HashtableDemo\bin\Debug\HashtableDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab8\first\HashtableDemo\HashtableDemo\bin\Debug\HashtableDemo.pdb
+C:\Users\TestUser\source\repos\Labs\Lab8\first\HashtableDemo\HashtableDemo\obj\Debug\HashtableDemo.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Labs\Lab8\first\HashtableDemo\HashtableDemo\obj\Debug\HashtableDemo.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Labs\Lab8\first\HashtableDemo\HashtableDemo\obj\Debug\HashtableDemo.exe
+C:\Users\TestUser\source\repos\Labs\Lab8\first\HashtableDemo\HashtableDemo\obj\Debug\HashtableDemo.pdb

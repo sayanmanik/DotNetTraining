@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WkAQ4vdVhEYkskDPdFMaDbwGAkN1b6BKbIofh6+P57gORCe0X0ArJnipKlbyiHA2YLytam67ggGO/YGvdAjqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TestUser\\source\\repos\\Day3\\AccountLibrary\\AccountSolution\\AccountSolution\\AccountSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TestUser\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TestUser\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

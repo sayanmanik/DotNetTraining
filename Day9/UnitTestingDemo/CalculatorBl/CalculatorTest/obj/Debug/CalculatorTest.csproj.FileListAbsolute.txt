@@ -1,0 +1,16 @@
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\bin\Debug\CalculatorBl.dll
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\bin\Debug\CalculatorBl.pdb
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\obj\Debug\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\obj\Debug\CalculatorTest.csproj.CopyComplete
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\TestUser\source\repos\Day9\UnitTestingDemo\CalculatorBl\CalculatorTest\obj\Debug\CalculatorTest.pdb
